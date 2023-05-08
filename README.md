@@ -11,3 +11,4 @@ Some examples of AI, Deep Learning, and Machine Learning projects that we did in
 6. IOT PROJECTS?
 7. ZE- Project to read QR codes (used yolov5large) 
 8. CPHS - altera de2-115 board
+9. Square jumper

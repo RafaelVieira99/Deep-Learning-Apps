@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1642455535 source:c:\users\rafaelalvesvieira\desktop\mnist-neural-network-plain-c-master\mnist.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+	<string.h>
+	"include/mnist_file.h"
+	"include/neural_network.h"
+
+1639397383 c:\users\rafaelalvesvieira\desktop\mnist-neural-network-plain-c-master\include\mnist_file.h
+	<stdint.h>
+
+1639397383 c:\users\rafaelalvesvieira\desktop\mnist-neural-network-plain-c-master\include\neural_network.h
+	"mnist_file.h"
+
+1639577667 source:c:\users\rafaelalvesvieira\desktop\mnist-neural-network-plain-c-master\mnist_file.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"include/mnist_file.h"
+
+1639397382 source:c:\users\rafaelalvesvieira\desktop\mnist-neural-network-plain-c-master\neural_network.c
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"include/mnist_file.h"
+	"include/neural_network.h"
+
+1639507576 source:c:\users\rafaelalvesvieira\desktop\c_projects\mnist\write_weights.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+	"include/mnist_file.h"
+	"include/neural_network.h"
+
+1639397383 c:\users\rafaelalvesvieira\desktop\c_projects\mnist\include\mnist_file.h
+	<stdint.h>
+
+1639397383 c:\users\rafaelalvesvieira\desktop\c_projects\mnist\include\neural_network.h
+	"mnist_file.h"
+

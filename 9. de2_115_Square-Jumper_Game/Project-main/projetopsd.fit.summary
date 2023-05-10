@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun May 30 15:54:19 2021
+Quartus II Version : 9.1 Build 350 03/24/2010 SP 2 SJ Web Edition
+Revision Name : projetopsd
+Top-level Entity Name : projeto
+Family : Cyclone II
+Device : EP2C35F672C6
+Timing Models : Final
+Total logic elements : 2,421 / 33,216 ( 7 % )
+    Total combinational functions : 2,405 / 33,216 ( 7 % )
+    Dedicated logic registers : 1,056 / 33,216 ( 3 % )
+Total registers : 1056
+Total pins : 120 / 475 ( 25 % )
+Total virtual pins : 0
+Total memory bits : 36,864 / 483,840 ( 8 % )
+Embedded Multiplier 9-bit elements : 0 / 70 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

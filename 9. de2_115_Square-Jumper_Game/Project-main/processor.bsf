@@ -1,0 +1,232 @@
+/*
+WARNING: Do NOT edit the input and output ports in this file in a text
+editor if you plan to continue editing the block that represents it in
+the Block Editor! File corruption is VERY likely to occur.
+*/
+/*
+Copyright (C) 1991-2010 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+*/
+(header "symbol" (version "1.1"))
+(symbol
+	(rect 16 16 248 432)
+	(text "processor" (rect 5 0 64 14)(font "Arial" (font_size 8)))
+	(text "inst" (rect 8 400 25 412)(font "Arial" ))
+	(port
+		(pt 0 32)
+		(input)
+		(text "Jump" (rect 0 0 29 14)(font "Arial" (font_size 8)))
+		(text "Jump" (rect 21 27 50 41)(font "Arial" (font_size 8)))
+		(line (pt 0 32)(pt 16 32)(line_width 1))
+	)
+	(port
+		(pt 0 48)
+		(input)
+		(text "Start" (rect 0 0 27 14)(font "Arial" (font_size 8)))
+		(text "Start" (rect 21 43 48 57)(font "Arial" (font_size 8)))
+		(line (pt 0 48)(pt 16 48)(line_width 1))
+	)
+	(port
+		(pt 0 64)
+		(input)
+		(text "BackMainmenu" (rect 0 0 84 14)(font "Arial" (font_size 8)))
+		(text "BackMainmenu" (rect 21 59 105 73)(font "Arial" (font_size 8)))
+		(line (pt 0 64)(pt 16 64)(line_width 1))
+	)
+	(port
+		(pt 0 80)
+		(input)
+		(text "Ton" (rect 0 0 21 14)(font "Arial" (font_size 8)))
+		(text "Ton" (rect 21 75 42 89)(font "Arial" (font_size 8)))
+		(line (pt 0 80)(pt 16 80)(line_width 1))
+	)
+	(port
+		(pt 0 96)
+		(input)
+		(text "Credits" (rect 0 0 40 14)(font "Arial" (font_size 8)))
+		(text "Credits" (rect 21 91 61 105)(font "Arial" (font_size 8)))
+		(line (pt 0 96)(pt 16 96)(line_width 1))
+	)
+	(port
+		(pt 0 112)
+		(input)
+		(text "CLK_50" (rect 0 0 44 14)(font "Arial" (font_size 8)))
+		(text "CLK_50" (rect 21 107 65 121)(font "Arial" (font_size 8)))
+		(line (pt 0 112)(pt 16 112)(line_width 1))
+	)
+	(port
+		(pt 232 32)
+		(output)
+		(text "LEDG[7..0]" (rect 0 0 60 14)(font "Arial" (font_size 8)))
+		(text "LEDG[7..0]" (rect 151 27 211 41)(font "Arial" (font_size 8)))
+		(line (pt 232 32)(pt 216 32)(line_width 3))
+	)
+	(port
+		(pt 232 48)
+		(output)
+		(text "LEDR[7..0]" (rect 0 0 59 14)(font "Arial" (font_size 8)))
+		(text "LEDR[7..0]" (rect 152 43 211 57)(font "Arial" (font_size 8)))
+		(line (pt 232 48)(pt 216 48)(line_width 3))
+	)
+	(port
+		(pt 232 64)
+		(output)
+		(text "VGA_R[9..0]" (rect 0 0 71 14)(font "Arial" (font_size 8)))
+		(text "VGA_R[9..0]" (rect 140 59 211 73)(font "Arial" (font_size 8)))
+		(line (pt 232 64)(pt 216 64)(line_width 3))
+	)
+	(port
+		(pt 232 80)
+		(output)
+		(text "VGA_G[9..0]" (rect 0 0 73 14)(font "Arial" (font_size 8)))
+		(text "VGA_G[9..0]" (rect 138 75 211 89)(font "Arial" (font_size 8)))
+		(line (pt 232 80)(pt 216 80)(line_width 3))
+	)
+	(port
+		(pt 232 96)
+		(output)
+		(text "VGA_B[9..0]" (rect 0 0 71 14)(font "Arial" (font_size 8)))
+		(text "VGA_B[9..0]" (rect 140 91 211 105)(font "Arial" (font_size 8)))
+		(line (pt 232 96)(pt 216 96)(line_width 3))
+	)
+	(port
+		(pt 232 112)
+		(output)
+		(text "VGA_HS" (rect 0 0 51 14)(font "Arial" (font_size 8)))
+		(text "VGA_HS" (rect 160 107 211 121)(font "Arial" (font_size 8)))
+		(line (pt 232 112)(pt 216 112)(line_width 1))
+	)
+	(port
+		(pt 232 128)
+		(output)
+		(text "VGA_VS" (rect 0 0 53 14)(font "Arial" (font_size 8)))
+		(text "VGA_VS" (rect 158 123 211 137)(font "Arial" (font_size 8)))
+		(line (pt 232 128)(pt 216 128)(line_width 1))
+	)
+	(port
+		(pt 232 144)
+		(output)
+		(text "VGA_BLANK" (rect 0 0 76 14)(font "Arial" (font_size 8)))
+		(text "VGA_BLANK" (rect 135 139 211 153)(font "Arial" (font_size 8)))
+		(line (pt 232 144)(pt 216 144)(line_width 1))
+	)
+	(port
+		(pt 232 160)
+		(output)
+		(text "VGA_CLK" (rect 0 0 59 14)(font "Arial" (font_size 8)))
+		(text "VGA_CLK" (rect 152 155 211 169)(font "Arial" (font_size 8)))
+		(line (pt 232 160)(pt 216 160)(line_width 1))
+	)
+	(port
+		(pt 232 176)
+		(output)
+		(text "HEX0[6..0]" (rect 0 0 59 14)(font "Arial" (font_size 8)))
+		(text "HEX0[6..0]" (rect 152 171 211 185)(font "Arial" (font_size 8)))
+		(line (pt 232 176)(pt 216 176)(line_width 3))
+	)
+	(port
+		(pt 232 192)
+		(output)
+		(text "LCD_RW" (rect 0 0 50 14)(font "Arial" (font_size 8)))
+		(text "LCD_RW" (rect 161 187 211 201)(font "Arial" (font_size 8)))
+		(line (pt 232 192)(pt 216 192)(line_width 1))
+	)
+	(port
+		(pt 232 208)
+		(output)
+		(text "HEX1[6..0]" (rect 0 0 59 14)(font "Arial" (font_size 8)))
+		(text "HEX1[6..0]" (rect 152 203 211 217)(font "Arial" (font_size 8)))
+		(line (pt 232 208)(pt 216 208)(line_width 3))
+	)
+	(port
+		(pt 232 224)
+		(output)
+		(text "LCD_RS" (rect 0 0 47 14)(font "Arial" (font_size 8)))
+		(text "LCD_RS" (rect 164 219 211 233)(font "Arial" (font_size 8)))
+		(line (pt 232 224)(pt 216 224)(line_width 1))
+	)
+	(port
+		(pt 232 240)
+		(output)
+		(text "HEX2[6..0]" (rect 0 0 59 14)(font "Arial" (font_size 8)))
+		(text "HEX2[6..0]" (rect 152 235 211 249)(font "Arial" (font_size 8)))
+		(line (pt 232 240)(pt 216 240)(line_width 3))
+	)
+	(port
+		(pt 232 256)
+		(output)
+		(text "LCD_EN" (rect 0 0 46 14)(font "Arial" (font_size 8)))
+		(text "LCD_EN" (rect 165 251 211 265)(font "Arial" (font_size 8)))
+		(line (pt 232 256)(pt 216 256)(line_width 1))
+	)
+	(port
+		(pt 232 272)
+		(output)
+		(text "HEX3[6..0]" (rect 0 0 59 14)(font "Arial" (font_size 8)))
+		(text "HEX3[6..0]" (rect 152 267 211 281)(font "Arial" (font_size 8)))
+		(line (pt 232 272)(pt 216 272)(line_width 3))
+	)
+	(port
+		(pt 232 288)
+		(output)
+		(text "LCD_DATA[7..0]" (rect 0 0 93 14)(font "Arial" (font_size 8)))
+		(text "LCD_DATA[7..0]" (rect 118 283 211 297)(font "Arial" (font_size 8)))
+		(line (pt 232 288)(pt 216 288)(line_width 3))
+	)
+	(port
+		(pt 232 304)
+		(output)
+		(text "HEX4[6..0]" (rect 0 0 59 14)(font "Arial" (font_size 8)))
+		(text "HEX4[6..0]" (rect 152 299 211 313)(font "Arial" (font_size 8)))
+		(line (pt 232 304)(pt 216 304)(line_width 3))
+	)
+	(port
+		(pt 232 320)
+		(output)
+		(text "HEX5[6..0]" (rect 0 0 59 14)(font "Arial" (font_size 8)))
+		(text "HEX5[6..0]" (rect 152 315 211 329)(font "Arial" (font_size 8)))
+		(line (pt 232 320)(pt 216 320)(line_width 3))
+	)
+	(port
+		(pt 232 336)
+		(output)
+		(text "HEX6[6..0]" (rect 0 0 59 14)(font "Arial" (font_size 8)))
+		(text "HEX6[6..0]" (rect 152 331 211 345)(font "Arial" (font_size 8)))
+		(line (pt 232 336)(pt 216 336)(line_width 3))
+	)
+	(port
+		(pt 232 352)
+		(output)
+		(text "HEX7[6..0]" (rect 0 0 59 14)(font "Arial" (font_size 8)))
+		(text "HEX7[6..0]" (rect 152 347 211 361)(font "Arial" (font_size 8)))
+		(line (pt 232 352)(pt 216 352)(line_width 3))
+	)
+	(port
+		(pt 232 368)
+		(output)
+		(text "LCD_ON" (rect 0 0 48 14)(font "Arial" (font_size 8)))
+		(text "LCD_ON" (rect 163 363 211 377)(font "Arial" (font_size 8)))
+		(line (pt 232 368)(pt 216 368)(line_width 1))
+	)
+	(port
+		(pt 232 384)
+		(output)
+		(text "LCD_BLON" (rect 0 0 63 14)(font "Arial" (font_size 8)))
+		(text "LCD_BLON" (rect 148 379 211 393)(font "Arial" (font_size 8)))
+		(line (pt 232 384)(pt 216 384)(line_width 1))
+	)
+	(drawing
+		(rectangle (rect 16 16 216 400)(line_width 1))
+	)
+)

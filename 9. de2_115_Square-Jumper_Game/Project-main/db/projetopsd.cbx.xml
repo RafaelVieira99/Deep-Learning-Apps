@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="projetopsd">
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant0:inst18|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_ob8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant14:inst22|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_sb8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant18:inst26|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_ad8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant5:inst4|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_ba8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant8:inst9|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_ea8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant1:inst1|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_aa8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant2:inst|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_9a8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant9:inst10|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_fa8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant10:inst11|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_ga8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant13:inst21|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_rb8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant15:inst23|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_tb8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant17:inst25|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_vb8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant19:inst27|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_9d8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant4:inst3|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_7a8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant7:inst8|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_ca8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|processor:inst|datapath:inst1|lpm_rom3:inst7|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ft61.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|processor:inst|datapath:inst1|lpm_rom4:inst2|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ae71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|processor:inst|datapath:inst1|lpm_rom5:inst5|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ao71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant11:inst19|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_pb8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant20:inst28|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_8d8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant6:inst6|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_da8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|processor:inst|datapath:inst1|lpm_mux1:inst11|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_j4e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant12:inst20|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_qb8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant16:inst24|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_ub8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant3:inst2|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_8a8.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|processor:inst|datapath:inst1|lpm_mux1:inst12|LPM_MUX:lpm_mux_component" CBX_FILE_NAME="mux_j4e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|projeto|bloco_virtual:inst15|lpm_constant21:inst29|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_7d8.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

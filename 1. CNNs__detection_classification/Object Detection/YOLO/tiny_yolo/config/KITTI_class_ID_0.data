@@ -1,0 +1,4 @@
+classes= 1
+train=data/KITTI/training.txt
+valid=data/KITTI/testing.txt
+names=data/KITTI/classes.names

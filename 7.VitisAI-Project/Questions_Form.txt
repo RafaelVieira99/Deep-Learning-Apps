@@ -1,0 +1,13 @@
+1- have you used the framework vitis AI?
+
+2- for what purpose was it used? ()
+
+3- To be more specific, which tools did you use concretely? (compiler, quantizer, optimizer, etc)
+
+4- On a scale of 0 to 10, how difficult/complex did you find working with this framework?
+
+5- Please indicate the average time spent from all the development to the deployment of an application you created.
+
+6- In what aspect, in your opinion, what could be changed in this framework to make your experience more pleasant?
+
+7- In the context of FPGAs and neural networks, which other frameworks have you also worked on (for example: pynq, finn) and indicate some advantages/disadvantages.
